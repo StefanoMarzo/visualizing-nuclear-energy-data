@@ -22,7 +22,8 @@ an increase in the share of nuclear power production in a given country.
 It is possible to show how the global income grows together with CO2 emissions. Correlation between normalized global GDP and CO2 total emissions demonstrates a high level of
 interrelation between the trends.  
 
-![alt GDP and CO2 trends](https://github.com/StefanoMarzo/visualizing-nuclear-energy-data/blob/plot/01.jpg?raw=true)  
+![alt GDP and CO2 trends](https://raw.githubusercontent.com/StefanoMarzo/visualizing-nuclear-energy-data/main/plots/01.jpg)  
+Figure 1: Trend and correlation of GDP and CO2 emissions
 
 The results demonstrate a clear relation between the data, and show that GDP and CO2
 emissions are in average rising in the years considered. This led to investigate on countries
@@ -32,11 +33,17 @@ reported near to each bar represent the year of highest CO2 emissions and the ne
 numbers in the bars are the difference of emissions from the year of the highest production
 to 2010.
 
+![Top ten countries for CO2 reduction over a range of years](https://raw.githubusercontent.com/StefanoMarzo/visualizing-nuclear-energy-data/main/plots/02.jpg)  
+Figure 2: Top ten countries for CO2 reduction over a range of years
+
 The bar chart in Fig. 2 shows that among the best countries for CO2 reduction, the 80%
 of them are nuclear energy producers. Moreover, as reported in (Nuclear Energy Institute,
 2018), the 60% of the countries displayed are in the list of top countries for nuclear energy
 production and 40% of them are among the top countries for nuclear energy share.
 Lastly, the top four countries for CO2 reduction among nuclear producers has been considered. Of these countries, a relationship between emissions reduction and a gradual increase in the share of nuclear power was investigated. The results are shown in Fig. 3.
+
+![Relation between CO2 reduction and nuclear energy share](https://raw.githubusercontent.com/StefanoMarzo/visualizing-nuclear-energy-data/main/plots/03.jpg) 
+Figure 3: Relation between CO2 reduction and nuclear energy share
 
 It is possible to see that for Ukraine, Germany and France, a larger share of nuclear energy
 led to a CO2 emissions reduction, while the United Kingdom does not show evidence of correlation. This graph is not to be intended as a clear evidence of the fact the nuclear energy
